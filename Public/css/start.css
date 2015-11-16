@@ -1,0 +1,41 @@
+/* 
+
+	start.css v1 | twitter.com/muhammetakkuson
+
+*/
+
+/*
+
+	normalize.css' in ardından isteğe bağlı olarak import edilebilir.
+
+*/
+
+html {
+	font-size: 100%;
+	font-weight: normal;
+	line-height: normal;
+	color: #222;
+}
+img {
+	margin: 0;
+	outline: none;
+}
+ul, li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+h1, h2, h3, h4, h5, h6, ul, li, a, span {
+	margin: 0;
+	padding: 0;
+}
+textarea {
+    resize: vertical;
+}
+input, textarea, button, a {
+	outline: none;
+}
+.clear {
+	clear: both;
+}
